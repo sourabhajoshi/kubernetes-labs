@@ -1,0 +1,28 @@
+# Create a YAML file to represent your personal information:
+# Requirements:
+# - Use scalars (name, age, city)
+# - Use a list (skills)
+# - Use a dictionary for contact details
+
+# Example structure:
+# name: John Doe
+# age: 28
+# city: Mumbai
+# skills:
+#   - Python
+#   - Docker
+# contact:
+#   email: john@example.com
+#   phone: "+91-9999999999"
+
+name: joshi
+age: 29
+city: Bidar
+skills:
+  - python
+  - js
+  - django
+  - vue
+contact:
+  email: joshisourabh124@gmail.com
+  phone: 9448831997

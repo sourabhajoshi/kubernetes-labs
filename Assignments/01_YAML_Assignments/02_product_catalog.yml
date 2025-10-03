@@ -1,0 +1,25 @@
+# Create a YAML file to describe a list of products in an online store.
+# Requirements:
+# - List of 3 products
+# - Each product should have: name, price, in_stock (boolean), tags (list)
+
+products:
+  - name: Tata tiago
+    price: 780000
+    in_stock: true
+    tags:
+      - xml
+      - tml
+  - name: Tate tigor
+    price: 890000
+    in_stock: false
+    tags:
+      - BV
+      - MV
+      - TV
+  - name : Tata Nexon
+    price: 1150000
+    in_stock: true
+    tags:
+      - LV
+      - UV
