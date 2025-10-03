@@ -1,0 +1,38 @@
+# Create a YAML to describe a group of servers.
+# Requirements:
+# - List of servers
+# - Each server should have: name, IP address, roles (list), and OS details (nested dictionary)
+
+# Hint: Use dictionary inside a list
+
+servers:
+  - name: web-server-01
+    ip: 192.168.10.11
+    roles:
+      - web
+      - frontend
+      - nginx
+    os:
+      name: Ubuntu
+      version: 22.04
+      storage: "500GB"
+
+  - name: db-server-01
+    ip: 192.168.10.20
+    roles:
+      - database
+      - postgres
+    os:
+      name: CentOS
+      version: 8
+      storage: "2TB"
+
+  - name: cache-server-01
+    ip: 192.168.10.30
+    roles:
+      - cache
+      - redis
+    os:
+      name: Alpine
+      version: 3.18
+      storage: "100GB"
