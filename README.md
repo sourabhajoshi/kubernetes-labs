@@ -15,7 +15,7 @@ kubectl run nginx --image=nginx -n demo
 kubectl get pods -n demo
 ```
 ## 2. Pods (the smallest unit)
-- What is a Pod? → A wrapper around one or more containers.
+- What is a Pod? → A wrapper around one or more containers.  
 - Multi-container pods → Sidecar pattern.
 - Pod lifecycle & restart policies.
 
