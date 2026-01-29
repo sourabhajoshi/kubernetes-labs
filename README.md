@@ -1,6 +1,6 @@
 # Kubernetes Learning Roadmap
 
-## 1. Basics & Foundations  
+## 1. Basics & Foundations    
 - Cluster & Nodes** → Understand what a cluster is (control plane + worker nodes).
 - kubectl → Practice basic commands (`get`, `describe`, `create`, `delete`).
 - Namespaces → Logical grouping of resources.
