@@ -19,7 +19,7 @@ kubectl get pods -n demo
 - Multi-container pods → Sidecar pattern.
 - Pod lifecycle & restart policies.
 
-**Practice**
+**Practice**    
 
 Create a Pod YAML and run it.
 
