@@ -63,7 +63,7 @@ Inject a ConfigMap and Secret into your Deployment.
 - StorageClass → dynamic provisioning of volumes.
 - StatefulSet + PVC → database example.
 
-**Practice**
+**Practice**  
 
 Create a PVC, attach it to a pod, and check data persistence.
 
