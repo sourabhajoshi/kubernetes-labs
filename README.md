@@ -1,4 +1,4 @@
-# Kubernetes Learning Roadmap    
+ # Kubernetes Learning Roadmap    
 
 ## 1. Basics & Foundations        
 - Cluster & Nodes** → Understand what a cluster is (control plane + worker nodes).
@@ -7,7 +7,7 @@
 
 **Practice**
 
-Create a namespace and run a simple pod.
+Create a namespace and run a simple pod.    
 
 ```bash
 kubectl create ns demo
