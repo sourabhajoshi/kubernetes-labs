@@ -5,7 +5,7 @@
 - kubectl → Practice basic commands (`get`, `describe`, `create`, `delete`).
 - Namespaces → Logical grouping of resources.
 
-**Practice**
+**Practice**    
 
 Create a namespace and run a simple pod.    
 
