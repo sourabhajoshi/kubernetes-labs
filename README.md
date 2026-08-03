@@ -8,7 +8,7 @@
 **Practice**    
 
 Create a namespace and run a simple pod.    
-
+  
 ```bash
 kubectl create ns demo
 kubectl run nginx --image=nginx -n demo
